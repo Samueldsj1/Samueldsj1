@@ -1,14 +1,15 @@
 <h1 align="center"> Olá! Sou SAMUEL DUARTE </h1>
 <h3 align="center">Como aprendiz em constante evolução na área de programação e tecnologia, estou empenhado em adquirir conhecimento e desenvolver habilidades para contribuir com projetos inovadores e entregar soluções de qualidade.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samueldsj1&label=Visualiza%C3%A7%C3%B5es&color=fbda04&style=plastic" alt="samueldsj1 " /> </p>
+
 
 Minhas habilidades 🚀<br>
 - 💻 Eu estou aprendendo **C# e Java**
 - 🛠️ Tecnologias: .NET Framework, ASP.NET, .NET Core, Entity Framework <br>
 - 🌐 Frameworks: .NET Framework, ASP.NET, Entity Framework <br>
 - 🗃️ Bancos de dados: MySQL, SQL Server.
-
+<br><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samueldsj1&label=Visualiza%C3%A7%C3%B5es&color=fbda04&style=plastic" alt="samueldsj1 " /> </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
