@@ -6,8 +6,8 @@
 Minhas habilidades 🚀<br>
 - 💻 Eu estou aprendendo **C# e Java**
 - 🛠️ Tecnologias: .NET Framework, ASP.NET, .NET Core, Entity Framework <br>
-- 🌐 Frameworks: .NET Framework, ASP.NET, Entity Framework <br>
-- 🗃️ Bancos de dados: MySQL, SQL Server.
+- 🌐 Frameworks: .NET Framework, ASP.NET, Entity Framework, Ado.Net <br>
+- 🗃️ Bancos de dados: MySQL WorkBench, SQL Server.
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samueldsj1&label=Visualiza%C3%A7%C3%B5es&color=fbda04&style=plastic" alt="samueldsj1 " /> </p>
 <h3 align="left">Languages and Tools:</h3>
