@@ -1,4 +1,4 @@
-<h1 align="center"> Olá! Sou SAMUEL DUARTE DA SILVA </h1>
+<h1 align="center"> Olá, Sou SAMUEL DUARTE DA SILVA! </h1>
 <h3 align="center">Como aprendiz em constante evolução na área de programação e tecnologia, estou empenhado em adquirir conhecimento e desenvolver habilidades para contribuir com projetos inovadores e entregar soluções de qualidade.</h3>
 
 
