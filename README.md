@@ -4,7 +4,7 @@
  <a href="https://linkedin.com/in/samuel-duarte-da-silva-67146a243" rel="likedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"
  </a>
- <a href="mailto:samueldsj1@gmail.com" rel="likedin">
+ <a href="samueldsj1@gmail.com" rel="likedin">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Gmail"
  </a>
 
