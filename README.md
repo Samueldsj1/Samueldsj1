@@ -2,7 +2,11 @@
 <h3 align="center">Como aprendiz em constante evolução na área de programação e tecnologia, estou empenhado em adquirir conhecimento e desenvolver habilidades para contribuir com projetos inovadores e entregar soluções de qualidade.</h3>
 
 
-<h4><a href="https://linkedin.com/in/samuel-duarte-da-silva-67146a243">linkedin</a></h4>
+<h4>
+  <a href="https://linkedin.com/in/samuel-duarte-da-silva-67146a243">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  </a>
+</h4>
 <h4> <a href="mailto:samueldsj1@gmail.com">Email</a></h4>
 
 
