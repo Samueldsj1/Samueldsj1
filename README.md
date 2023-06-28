@@ -1,11 +1,13 @@
 <h1 align="center"> Olá, Sou SAMUEL DUARTE DA SILVA! 👋 </h1>
 <h3 align="center">Como aprendiz em constante evolução na área de programação e tecnologia, estou empenhado em adquirir conhecimento e desenvolver habilidades para contribuir com projetos inovadores e entregar soluções de qualidade.</h3>
 
- <a href="[https://www.java.com" target="_blank](https://linkedin.com/in/samuel-duarte-da-silva-67146a243)" rel="likedin">
-    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt="linkedin" width="40" height="40"/>
-  </a>
+ <a href="https://linkedin.com/in/samuel-duarte-da-silva-67146a243" rel="likedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"
+ </a>
+ <a href="mailto:samueldsj1@gmail.com" rel="likedin">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Gmail"
+ </a>
 
-<h4> <a href="mailto:samueldsj1@gmail.com">Email</a></h4>
 
 
 
