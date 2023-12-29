@@ -1,6 +1,6 @@
-# Olá, Sou SAMUEL DUARTE DA SILVA! 👋 
+# Olá!👋 
 
-### Como aprendiz em constante evolução na área de programação e tecnologia, estou empenhado em adquirir conhecimento e desenvolver habilidades para contribuir com projetos inovadores e entregar soluções de qualidade.
+### Sou SAMUEL DUARTE DA SILVA, como aprendiz em constante evolução na área de programação e tecnologia, estou empenhado em adquirir conhecimento e desenvolver habilidades para contribuir com projetos e entregar soluções de qualidade.
 
 As a constantly evolving learner in the area of ​​programming and technology, I am committed to acquiring knowledge and developing skills to contribute to innovative projects and deliver quality solutions.
 
