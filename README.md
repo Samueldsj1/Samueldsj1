@@ -8,7 +8,8 @@ As a constantly evolving learner in the area of ​​programming and technology
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samueldsj1@gmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samuel_dsj/?igshid=Zdc40DBmNjlmNQ%3D%3D)
 
-![samueldsj1 git hub static](https://github-readme-stats.vercel.app/api?username=samueldsj1&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samueldsj1&theme=tokyonight)
+
   
 
 ### Languages and Tools:
